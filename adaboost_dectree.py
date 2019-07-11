@@ -16,7 +16,7 @@ import io
 #returns current working directory
 os.getcwd()
 #changes working directory
-os.chdir("D:/Data Science/Data")
+os.chdir("C:/ML/")
 
 titanic_train = pd.read_csv("train.csv")
 
